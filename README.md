@@ -1,8 +1,6 @@
 # Agent Scully
 A agent to help in networking
 
-</hr>
-
 # How to use this
 ```bash
 go run .
