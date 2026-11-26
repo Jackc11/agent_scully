@@ -1,4 +1,4 @@
-# agent_scully
+# Agent Scully
 A agent to help in networking
 
 </hr>
@@ -12,6 +12,6 @@ or you can build like this
 go build .
 ./agent_scully <path/to/config/file>
 ```
-When you not entering the config file path uses build in default config instead
+When you not entering the config file path uses build in default config instead. The default config is using ollama on localhost
 
 # This is work in progress
