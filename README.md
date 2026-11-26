@@ -15,4 +15,4 @@ go build .
 When you not entering the config file path uses build in default config instead. The default config is using ollama on localhost
 
 # This is work in progress
-[What to do](../todo.md)
+[What to do](todo.md)
